@@ -22,3 +22,7 @@
 | This       | is           | TABLE  |
 | ------------- |:-------------:| -----:|
 | I    | am  | COOLLLL |
+
+
+# Command line screenshot
+(/screenshot.png)
