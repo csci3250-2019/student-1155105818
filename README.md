@@ -25,4 +25,4 @@
 
 
 # Command line screenshot
-(/screenshot.png)
+![screenshot ](/screenshot.png)
